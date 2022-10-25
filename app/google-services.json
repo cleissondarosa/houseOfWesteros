@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "149907617741",
+    "firebase_url": "https://houseofdragon-900bd-default-rtdb.firebaseio.com",
+    "project_id": "houseofdragon-900bd",
+    "storage_bucket": "houseofdragon-900bd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:149907617741:android:1d9513bc7d182d67597684",
+        "android_client_info": {
+          "package_name": "com.example.houseofdragon"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "149907617741-gjk225rnhn9ns9ffqg55gbujuiibm6k1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBTm2Tb24qPfMDHRKc9fZJvsUDcja1EbH0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "149907617741-gjk225rnhn9ns9ffqg55gbujuiibm6k1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,106 @@
+[
+    {
+        "merged": "C:\\Users\\cleis\\.gradle\\daemon\\7.3.3\\com.example.houseofdragon.app-merged_res-40:\\layout_item_name.xml.flat",
+        "source": "C:\\Users\\cleis\\.gradle\\daemon\\7.3.3\\com.example.houseofdragon.app-main-42:\\layout\\item_name.xml"
+    },
+    {
+        "merged": "C:\\Users\\cleis\\.gradle\\daemon\\7.3.3\\com.example.houseofdragon.app-merged_res-40:\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\cleis\\.gradle\\daemon\\7.3.3\\com.example.houseofdragon.app-main-42:\\mipmap-xxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\cleis\\.gradle\\daemon\\7.3.3\\com.example.houseofdragon.app-merged_res-40:\\drawable_dragonstone.jpg.flat",
+        "source": "C:\\Users\\cleis\\.gradle\\daemon\\7.3.3\\com.example.houseofdragon.app-main-42:\\drawable\\dragonstone.jpg"
+    },
+    {
+        "merged": "C:\\Users\\cleis\\.gradle\\daemon\\7.3.3\\com.example.houseofdragon.app-merged_res-40:\\drawable_targeryan.png.flat",
+        "source": "C:\\Users\\cleis\\.gradle\\daemon\\7.3.3\\com.example.houseofdragon.app-main-42:\\drawable\\targeryan.png"
+    },
+    {
+        "merged": "C:\\Users\\cleis\\.gradle\\daemon\\7.3.3\\com.example.houseofdragon.app-merged_res-40:\\drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\cleis\\.gradle\\daemon\\7.3.3\\com.example.houseofdragon.app-pngs-35:\\drawable-anydpi-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\cleis\\.gradle\\daemon\\7.3.3\\com.example.houseofdragon.app-merged_res-40:\\xml_data_extraction_rules.xml.flat",
+        "source": "C:\\Users\\cleis\\.gradle\\daemon\\7.3.3\\com.example.houseofdragon.app-main-42:\\xml\\data_extraction_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\cleis\\.gradle\\daemon\\7.3.3\\com.example.houseofdragon.app-merged_res-40:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\cleis\\.gradle\\daemon\\7.3.3\\com.example.houseofdragon.app-main-42:\\mipmap-xxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\cleis\\.gradle\\daemon\\7.3.3\\com.example.houseofdragon.app-merged_res-40:\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\cleis\\.gradle\\daemon\\7.3.3\\com.example.houseofdragon.app-main-42:\\mipmap-xhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.houseofdragon.app-merged_res-40:/layout_activity_second.xml.flat",
+        "source": "com.example.houseofdragon.app-main-42:/layout/activity_second.xml"
+    },
+    {
+        "merged": "C:\\Users\\cleis\\.gradle\\daemon\\7.3.3\\com.example.houseofdragon.app-merged_res-40:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\cleis\\.gradle\\daemon\\7.3.3\\com.example.houseofdragon.app-main-42:\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\cleis\\.gradle\\daemon\\7.3.3\\com.example.houseofdragon.app-merged_res-40:\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\cleis\\.gradle\\daemon\\7.3.3\\com.example.houseofdragon.app-main-42:\\mipmap-hdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\cleis\\.gradle\\daemon\\7.3.3\\com.example.houseofdragon.app-merged_res-40:\\drawable_corners.xml.flat",
+        "source": "C:\\Users\\cleis\\.gradle\\daemon\\7.3.3\\com.example.houseofdragon.app-main-42:\\drawable\\corners.xml"
+    },
+    {
+        "merged": "C:\\Users\\cleis\\.gradle\\daemon\\7.3.3\\com.example.houseofdragon.app-merged_res-40:\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\cleis\\.gradle\\daemon\\7.3.3\\com.example.houseofdragon.app-main-42:\\mipmap-hdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\cleis\\.gradle\\daemon\\7.3.3\\com.example.houseofdragon.app-merged_res-40:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\cleis\\.gradle\\daemon\\7.3.3\\com.example.houseofdragon.app-main-42:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\cleis\\.gradle\\daemon\\7.3.3\\com.example.houseofdragon.app-merged_res-40:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\cleis\\.gradle\\daemon\\7.3.3\\com.example.houseofdragon.app-main-42:\\mipmap-xxxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.houseofdragon.app-merged_res-40:/drawable_img.xml.flat",
+        "source": "com.example.houseofdragon.app-main-42:/drawable/img.xml"
+    },
+    {
+        "merged": "C:\\Users\\cleis\\.gradle\\daemon\\7.3.3\\com.example.houseofdragon.app-merged_res-40:\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\cleis\\.gradle\\daemon\\7.3.3\\com.example.houseofdragon.app-main-42:\\mipmap-mdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\cleis\\.gradle\\daemon\\7.3.3\\com.example.houseofdragon.app-merged_res-40:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\cleis\\.gradle\\daemon\\7.3.3\\com.example.houseofdragon.app-main-42:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\cleis\\.gradle\\daemon\\7.3.3\\com.example.houseofdragon.app-merged_res-40:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\cleis\\.gradle\\daemon\\7.3.3\\com.example.houseofdragon.app-main-42:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\cleis\\.gradle\\daemon\\7.3.3\\com.example.houseofdragon.app-merged_res-40:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\cleis\\.gradle\\daemon\\7.3.3\\com.example.houseofdragon.app-main-42:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\cleis\\.gradle\\daemon\\7.3.3\\com.example.houseofdragon.app-merged_res-40:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\cleis\\.gradle\\daemon\\7.3.3\\com.example.houseofdragon.app-main-42:\\mipmap-xhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\cleis\\.gradle\\daemon\\7.3.3\\com.example.houseofdragon.app-merged_res-40:\\layout_activity_second.xml.flat",
+        "source": "C:\\Users\\cleis\\.gradle\\daemon\\7.3.3\\com.example.houseofdragon.app-main-42:\\layout\\activity_second.xml"
+    },
+    {
+        "merged": "C:\\Users\\cleis\\.gradle\\daemon\\7.3.3\\com.example.houseofdragon.app-merged_res-40:\\xml_backup_rules.xml.flat",
+        "source": "C:\\Users\\cleis\\.gradle\\daemon\\7.3.3\\com.example.houseofdragon.app-main-42:\\xml\\backup_rules.xml"
+    },
+    {
+        "merged": "com.example.houseofdragon.app-merged_res-40:/drawable_circle.xml.flat",
+        "source": "com.example.houseofdragon.app-main-42:/drawable/circle.xml"
+    },
+    {
+        "merged": "C:\\Users\\cleis\\.gradle\\daemon\\7.3.3\\com.example.houseofdragon.app-merged_res-40:\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\cleis\\.gradle\\daemon\\7.3.3\\com.example.houseofdragon.app-main-42:\\mipmap-mdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\cleis\\.gradle\\daemon\\7.3.3\\com.example.houseofdragon.app-merged_res-40:\\drawable_not_found.png.flat",
+        "source": "C:\\Users\\cleis\\.gradle\\daemon\\7.3.3\\com.example.houseofdragon.app-main-42:\\drawable\\not_found.png"
+    }
+]
